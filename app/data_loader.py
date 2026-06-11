@@ -10,7 +10,7 @@ def load_and_clean_data(file_source) -> pd.DataFrame:
     
     required_columns = ["date", "amount", "category"]
     if not all(col in df.columns for col in required_columns):
-        raise ValueError(f"CSV must contain these core columns: {required_columns}")
+        raise ValueError("Missing required columns! Please make sure your CSV includes headers for: 'date', 'amount', and 'category'.")
         
     df["date"] = pd.to_datetime(df["date"])
     df["category"] = df["category"].astype("str")

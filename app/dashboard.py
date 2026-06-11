@@ -22,7 +22,7 @@ def render_dashboard():
             st.sidebar.info("Showing sample data. Upload your own CSV above!")
             
     except Exception as e:
-        st.error(f"Failed processing configuration data: {e}")
+        st.sidebar.error(f"⚠️ {e}")
         st.stop()
 
     # Interactive Filter Construction
