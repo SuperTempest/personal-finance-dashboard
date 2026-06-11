@@ -1,0 +1,85 @@
+date,description,amount,category
+2026-01-03,Tim Hortons,-6.25,Food
+2026-01-05,Metro Grocery,-78.40,Food
+2026-01-08,Uber,-14.30,Transport
+2026-01-10,Netflix,-15.99,Entertainment
+2026-01-15,Amazon,-52.10,Shopping
+2026-01-20,Bus Pass,-120.00,Transport
+2026-01-25,Restaurant,-32.50,Food
+
+2026-02-02,Tim Hortons,-5.80,Food
+2026-02-06,Metro Grocery,-85.20,Food
+2026-02-09,Uber,-19.40,Transport
+2026-02-12,Spotify,-11.99,Entertainment
+2026-02-16,Amazon,-34.99,Shopping
+2026-02-22,Restaurant,-41.20,Food
+
+2026-03-01,Tim Hortons,-6.10,Food
+2026-03-04,Metro Grocery,-90.10,Food
+2026-03-07,Uber,-16.75,Transport
+2026-03-11,Netflix,-15.99,Entertainment
+2026-03-15,Amazon,-62.30,Shopping
+2026-03-21,Restaurant,-28.90,Food
+
+2026-04-03,Tim Hortons,-5.90,Food
+2026-04-06,Metro Grocery,-88.00,Food
+2026-04-09,Uber,-21.10,Transport
+2026-04-12,Spotify,-11.99,Entertainment
+2026-04-18,Amazon,-49.99,Shopping
+2026-04-24,Restaurant,-36.40,Food
+
+2026-05-02,Tim Hortons,-6.40,Food
+2026-05-05,Metro Grocery,-92.30,Food
+2026-05-08,Uber,-18.60,Transport
+2026-05-12,Netflix,-15.99,Entertainment
+2026-05-16,Amazon,-75.20,Shopping
+2026-05-22,Restaurant,-39.80,Food
+
+2026-06-01,Tim Hortons,-6.50,Food
+2026-06-04,Metro Grocery,-82.30,Food
+2026-06-07,Uber,-22.10,Transport
+2026-06-10,Spotify,-11.99,Entertainment
+2026-06-15,Amazon,-64.50,Shopping
+2026-06-20,Restaurant,-38.60,Food
+
+2026-07-03,Tim Hortons,-6.20,Food
+2026-07-06,Metro Grocery,-95.40,Food
+2026-07-09,Uber,-17.80,Transport
+2026-07-13,Netflix,-15.99,Entertainment
+2026-07-18,Amazon,-88.20,Shopping
+2026-07-24,Restaurant,-42.10,Food
+
+2026-08-02,Tim Hortons,-5.70,Food
+2026-08-05,Metro Grocery,-89.10,Food
+2026-08-08,Uber,-20.30,Transport
+2026-08-12,Spotify,-11.99,Entertainment
+2026-08-16,Amazon,-55.00,Shopping
+2026-08-21,Restaurant,-33.80,Food
+
+2026-09-01,Tim Hortons,-6.30,Food
+2026-09-05,Metro Grocery,-91.20,Food
+2026-09-09,Uber,-18.90,Transport
+2026-09-13,Netflix,-15.99,Entertainment
+2026-09-18,Amazon,-67.40,Shopping
+2026-09-24,Restaurant,-40.50,Food
+
+2026-10-03,Tim Hortons,-6.10,Food
+2026-10-07,Metro Grocery,-87.60,Food
+2026-10-11,Uber,-19.70,Transport
+2026-10-15,Spotify,-11.99,Entertainment
+2026-10-20,Amazon,-73.30,Shopping
+2026-10-26,Restaurant,-37.20,Food
+
+2026-11-02,Tim Hortons,-5.95,Food
+2026-11-06,Metro Grocery,-93.80,Food
+2026-11-10,Uber,-21.40,Transport
+2026-11-14,Netflix,-15.99,Entertainment
+2026-11-18,Amazon,-82.00,Shopping
+2026-11-23,Restaurant,-45.60,Food
+
+2026-12-01,Tim Hortons,-6.60,Food
+2026-12-05,Metro Grocery,-99.90,Food
+2026-12-09,Uber,-24.10,Transport
+2026-12-13,Spotify,-11.99,Entertainment
+2026-12-18,Amazon,-120.50,Shopping
+2026-12-24,Restaurant,-58.40,Food

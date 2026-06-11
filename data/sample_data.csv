@@ -1,0 +1,193 @@
+date,description,amount,category
+2026-01-01,Part-Time Paycheck,1450.00,Income
+2026-01-02,Rent,-850.00,Housing
+2026-01-03,Metro Grocery,-92.40,Groceries
+2026-01-04,Tim Hortons,-6.20,Coffee
+2026-01-05,Spotify,-11.99,Subscriptions
+2026-01-06,Shell Gas,-68.20,Gas
+2026-01-08,Amazon,-44.99,Shopping
+2026-01-10,TTC Pass,-156.00,Transport
+2026-01-12,Restaurant,-38.60,Dining
+2026-01-15,Scholarship Deposit,2500.00,Scholarship
+2026-01-18,GoodLife Fitness,-54.99,Fitness
+2026-01-20,Phone Bill,-72.50,Phone
+2026-01-22,Movie Theatre,-21.40,Entertainment
+2026-01-24,Uber,-18.75,Ride Share
+2026-01-27,Steam Purchase,-34.99,Gaming
+2026-01-29,Freelance Coding,320.00,Freelance
+
+2026-02-01,Part-Time Paycheck,1480.00,Income
+2026-02-02,Rent,-850.00,Housing
+2026-02-03,Metro Grocery,-88.20,Groceries
+2026-02-04,Starbucks,-7.10,Coffee
+2026-02-05,Netflix,-15.99,Subscriptions
+2026-02-06,Esso Gas,-72.30,Gas
+2026-02-08,Amazon,-62.40,Shopping
+2026-02-10,TTC Pass,-156.00,Transport
+2026-02-12,Restaurant,-44.10,Dining
+2026-02-15,Tax Refund,740.00,Refund
+2026-02-18,GoodLife Fitness,-54.99,Fitness
+2026-02-20,Internet Bill,-89.99,Utilities
+2026-02-22,Cineplex,-18.50,Entertainment
+2026-02-24,Uber,-24.20,Ride Share
+2026-02-27,Textbooks,-126.00,Education
+
+2026-03-01,Part-Time Paycheck,1500.00,Income
+2026-03-02,Rent,-850.00,Housing
+2026-03-03,Costco,-142.70,Groceries
+2026-03-04,Tim Hortons,-5.95,Coffee
+2026-03-05,Spotify,-11.99,Subscriptions
+2026-03-06,Shell Gas,-69.40,Gas
+2026-03-08,Amazon,-81.25,Shopping
+2026-03-10,TTC Pass,-156.00,Transport
+2026-03-12,Restaurant,-39.90,Dining
+2026-03-15,Freelance Web Design,540.00,Freelance
+2026-03-18,GoodLife Fitness,-54.99,Fitness
+2026-03-20,Phone Bill,-71.25,Phone
+2026-03-22,Bowling,-26.80,Entertainment
+2026-03-24,Uber,-19.40,Ride Share
+2026-03-27,Steam Spring Sale,-61.20,Gaming
+
+2026-04-01,Part-Time Paycheck,1520.00,Income
+2026-04-02,Rent,-850.00,Housing
+2026-04-03,Metro Grocery,-94.30,Groceries
+2026-04-04,Starbucks,-8.20,Coffee
+2026-04-05,Netflix,-15.99,Subscriptions
+2026-04-06,Esso Gas,-73.10,Gas
+2026-04-08,Amazon,-55.60,Shopping
+2026-04-10,TTC Pass,-156.00,Transport
+2026-04-12,Restaurant,-47.20,Dining
+2026-04-15,Investment Dividend,180.00,Investments
+2026-04-18,GoodLife Fitness,-54.99,Fitness
+2026-04-20,Internet Bill,-89.99,Utilities
+2026-04-22,Arcade,-24.50,Entertainment
+2026-04-24,Uber,-22.80,Ride Share
+2026-04-27,Lab Fees,-82.00,Education
+
+2026-05-01,Part-Time Paycheck,1550.00,Income
+2026-05-02,Rent,-850.00,Housing
+2026-05-03,Costco,-158.40,Groceries
+2026-05-04,Tim Hortons,-6.30,Coffee
+2026-05-05,Spotify,-11.99,Subscriptions
+2026-05-06,Shell Gas,-71.50,Gas
+2026-05-08,Amazon,-120.40,Shopping
+2026-05-10,TTC Pass,-156.00,Transport
+2026-05-12,Restaurant,-42.75,Dining
+2026-05-15,Freelance Tutoring,260.00,Freelance
+2026-05-18,GoodLife Fitness,-54.99,Fitness
+2026-05-20,Phone Bill,-72.00,Phone
+2026-05-22,Concert Ticket,-110.00,Entertainment
+2026-05-24,Uber,-21.60,Ride Share
+2026-05-27,PlayStation Store,-79.99,Gaming
+
+2026-06-01,Internship Paycheck,3200.00,Income
+2026-06-02,Rent,-850.00,Housing
+2026-06-03,Metro Grocery,-98.10,Groceries
+2026-06-04,Starbucks,-7.80,Coffee
+2026-06-05,Netflix,-15.99,Subscriptions
+2026-06-06,Esso Gas,-78.40,Gas
+2026-06-08,Amazon,-92.75,Shopping
+2026-06-10,GO Transit,-98.00,Transport
+2026-06-12,Restaurant,-51.30,Dining
+2026-06-15,Stock Dividend,220.00,Investments
+2026-06-18,GoodLife Fitness,-54.99,Fitness
+2026-06-20,Internet Bill,-89.99,Utilities
+2026-06-22,Blue Jays Tickets,-85.00,Entertainment
+2026-06-24,Uber,-26.40,Ride Share
+2026-06-27,Steam Purchase,-29.99,Gaming
+
+2026-07-01,Internship Paycheck,3200.00,Income
+2026-07-02,Rent,-850.00,Housing
+2026-07-03,Costco,-166.20,Groceries
+2026-07-04,Tim Hortons,-6.50,Coffee
+2026-07-05,Spotify,-11.99,Subscriptions
+2026-07-06,Shell Gas,-82.10,Gas
+2026-07-08,Amazon,-144.80,Shopping
+2026-07-10,GO Transit,-98.00,Transport
+2026-07-12,Restaurant,-48.90,Dining
+2026-07-15,Freelance Coding,610.00,Freelance
+2026-07-18,GoodLife Fitness,-54.99,Fitness
+2026-07-20,Phone Bill,-74.20,Phone
+2026-07-22,Movie Theatre,-19.80,Entertainment
+2026-07-24,Uber,-28.10,Ride Share
+2026-07-27,Nintendo Store,-69.99,Gaming
+
+2026-08-01,Internship Paycheck,3250.00,Income
+2026-08-02,Rent,-850.00,Housing
+2026-08-03,Metro Grocery,-101.50,Groceries
+2026-08-04,Starbucks,-8.40,Coffee
+2026-08-05,Netflix,-15.99,Subscriptions
+2026-08-06,Esso Gas,-79.60,Gas
+2026-08-08,Amazon,-88.25,Shopping
+2026-08-10,GO Transit,-98.00,Transport
+2026-08-12,Restaurant,-54.40,Dining
+2026-08-15,Investment Dividend,240.00,Investments
+2026-08-18,GoodLife Fitness,-54.99,Fitness
+2026-08-20,Internet Bill,-89.99,Utilities
+2026-08-22,Theme Park,-130.00,Entertainment
+2026-08-24,Uber,-24.90,Ride Share
+2026-08-27,Steam Purchase,-42.50,Gaming
+
+2026-09-01,Part-Time Paycheck,1650.00,Income
+2026-09-02,Rent,-850.00,Housing
+2026-09-03,Costco,-172.80,Groceries
+2026-09-04,Tim Hortons,-6.15,Coffee
+2026-09-05,Spotify,-11.99,Subscriptions
+2026-09-06,Shell Gas,-76.30,Gas
+2026-09-08,Amazon,-96.40,Shopping
+2026-09-10,TTC Pass,-156.00,Transport
+2026-09-12,Restaurant,-46.70,Dining
+2026-09-15,OSAP Grant,1800.00,Scholarship
+2026-09-18,GoodLife Fitness,-54.99,Fitness
+2026-09-20,Phone Bill,-72.80,Phone
+2026-09-22,Cineplex,-20.10,Entertainment
+2026-09-24,Uber,-22.50,Ride Share
+2026-09-27,Tuition Payment,-3400.00,Education
+
+2026-10-01,Part-Time Paycheck,1680.00,Income
+2026-10-02,Rent,-850.00,Housing
+2026-10-03,Metro Grocery,-104.90,Groceries
+2026-10-04,Starbucks,-8.90,Coffee
+2026-10-05,Netflix,-15.99,Subscriptions
+2026-10-06,Esso Gas,-81.70,Gas
+2026-10-08,Amazon,-72.20,Shopping
+2026-10-10,TTC Pass,-156.00,Transport
+2026-10-12,Restaurant,-49.80,Dining
+2026-10-15,Freelance Tutoring,310.00,Freelance
+2026-10-18,GoodLife Fitness,-54.99,Fitness
+2026-10-20,Internet Bill,-89.99,Utilities
+2026-10-22,Halloween Event,-44.00,Entertainment
+2026-10-24,Uber,-26.10,Ride Share
+2026-10-27,Xbox Store,-54.99,Gaming
+
+2026-11-01,Part-Time Paycheck,1700.00,Income
+2026-11-02,Rent,-850.00,Housing
+2026-11-03,Costco,-182.30,Groceries
+2026-11-04,Tim Hortons,-6.70,Coffee
+2026-11-05,Spotify,-11.99,Subscriptions
+2026-11-06,Shell Gas,-84.10,Gas
+2026-11-08,Black Friday Amazon,-320.60,Shopping
+2026-11-10,TTC Pass,-156.00,Transport
+2026-11-12,Restaurant,-57.40,Dining
+2026-11-15,Stock Dividend,260.00,Investments
+2026-11-18,GoodLife Fitness,-54.99,Fitness
+2026-11-20,Phone Bill,-73.90,Phone
+2026-11-22,Concert Ticket,-140.00,Entertainment
+2026-11-24,Uber,-29.20,Ride Share
+2026-11-27,Steam Autumn Sale,-96.50,Gaming
+
+2026-12-01,Holiday Bonus,2200.00,Income
+2026-12-02,Rent,-850.00,Housing
+2026-12-03,Metro Grocery,-188.50,Groceries
+2026-12-04,Starbucks,-9.20,Coffee
+2026-12-05,Netflix,-15.99,Subscriptions
+2026-12-06,Esso Gas,-86.90,Gas
+2026-12-08,Amazon Holiday,-410.40,Shopping
+2026-12-10,Flight Booking,-720.00,Travel
+2026-12-12,Restaurant,-68.80,Dining
+2026-12-15,Tax Refund,980.00,Refund
+2026-12-18,GoodLife Fitness,-54.99,Fitness
+2026-12-20,Internet Bill,-89.99,Utilities
+2026-12-22,Holiday Party,-95.00,Entertainment
+2026-12-24,Uber,-31.60,Ride Share
+2026-12-27,Nintendo Store,-89.99,Gaming

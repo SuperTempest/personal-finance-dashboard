@@ -1,0 +1,170 @@
+date,description,amount,category
+2025-01-02,Metro Grocery,-82.45,Groceries
+2025-01-03,Tim Hortons,-5.80,Coffee
+2025-01-04,Shell Gas,-61.20,Gas
+2025-01-05,Spotify,-11.99,Subscriptions
+2025-01-06,GoodLife Fitness,-54.99,Fitness
+2025-01-08,Amazon,-42.15,Shopping
+2025-01-10,TTC Pass,-156.00,Transport
+2025-01-11,Cineplex,-19.50,Entertainment
+2025-01-13,McDonalds,-12.40,Fast Food
+2025-01-15,Hydro One,-72.60,Utilities
+2025-01-18,Steam Purchase,-34.99,Gaming
+2025-01-20,Textbook Store,-128.50,Education
+2025-01-22,Pharmacy,-18.70,Healthcare
+2025-01-25,Petro Canada,-58.20,Gas
+2025-01-28,Uber,-21.10,Ride Share
+2025-02-01,No Frills,-76.80,Groceries
+2025-02-03,Starbucks,-7.25,Coffee
+2025-02-05,Netflix,-15.99,Subscriptions
+2025-02-07,Campus Parking,-45.00,Parking
+2025-02-09,Walmart,-61.30,Household
+2025-02-11,Restaurant,-38.60,Dining
+2025-02-14,Gift Shop,-54.20,Gifts
+2025-02-16,Phone Bill,-69.99,Phone
+2025-02-19,Amazon,-88.15,Shopping
+2025-02-22,Air Canada,-420.00,Travel
+2025-02-24,Dentist,-95.00,Healthcare
+2025-02-27,LCBO,-42.75,Alcohol
+2025-03-01,Metro Grocery,-84.10,Groceries
+2025-03-03,Tim Hortons,-6.15,Coffee
+2025-03-05,Shell Gas,-64.90,Gas
+2025-03-07,Spotify,-11.99,Subscriptions
+2025-03-10,GoodLife Fitness,-54.99,Fitness
+2025-03-12,Amazon,-55.60,Shopping
+2025-03-15,TTC Pass,-156.00,Transport
+2025-03-17,Cineplex,-22.00,Entertainment
+2025-03-19,KFC,-18.30,Fast Food
+2025-03-22,Hydro One,-75.40,Utilities
+2025-03-24,Steam Purchase,-49.99,Gaming
+2025-03-27,Bookstore,-96.25,Education
+2025-03-29,Shoppers Drug Mart,-21.80,Healthcare
+2025-04-01,Costco,-142.80,Groceries
+2025-04-03,Starbucks,-8.10,Coffee
+2025-04-05,Esso Gas,-59.40,Gas
+2025-04-06,Disney Plus,-14.99,Subscriptions
+2025-04-08,Gym Membership,-54.99,Fitness
+2025-04-10,Amazon,-112.45,Shopping
+2025-04-13,GO Transit,-98.00,Transport
+2025-04-15,Bowling,-28.60,Entertainment
+2025-04-18,Burger King,-14.50,Fast Food
+2025-04-20,Internet Bill,-89.99,Utilities
+2025-04-22,PlayStation Store,-79.99,Gaming
+2025-04-25,Lab Materials,-46.75,Education
+2025-04-27,Clinic Visit,-65.00,Healthcare
+2025-05-02,FreshCo,-81.15,Groceries
+2025-05-04,Tim Hortons,-5.95,Coffee
+2025-05-06,Petro Canada,-66.70,Gas
+2025-05-08,Netflix,-15.99,Subscriptions
+2025-05-10,GoodLife Fitness,-54.99,Fitness
+2025-05-12,Best Buy,-244.99,Electronics
+2025-05-15,Uber,-24.40,Ride Share
+2025-05-18,Concert Ticket,-115.00,Entertainment
+2025-05-20,Subway,-13.25,Fast Food
+2025-05-23,Hydro One,-74.80,Utilities
+2025-05-25,Steam Purchase,-24.99,Gaming
+2025-05-28,Course Fees,-210.00,Education
+2025-05-30,Pharmacy,-33.90,Healthcare
+2025-06-01,Metro Grocery,-90.30,Groceries
+2025-06-03,Starbucks,-7.80,Coffee
+2025-06-05,Shell Gas,-68.10,Gas
+2025-06-07,Spotify,-11.99,Subscriptions
+2025-06-09,Gym Membership,-54.99,Fitness
+2025-06-11,Amazon,-65.75,Shopping
+2025-06-13,TTC Pass,-156.00,Transport
+2025-06-15,Movie Theatre,-21.50,Entertainment
+2025-06-18,Wendys,-16.20,Fast Food
+2025-06-20,Internet Bill,-89.99,Utilities
+2025-06-23,Xbox Store,-59.99,Gaming
+2025-06-25,Textbooks,-138.40,Education
+2025-06-28,Dental Cleaning,-120.00,Healthcare
+2025-07-02,Costco,-164.20,Groceries
+2025-07-04,Tim Hortons,-6.40,Coffee
+2025-07-06,Esso Gas,-72.50,Gas
+2025-07-08,Netflix,-15.99,Subscriptions
+2025-07-10,GoodLife Fitness,-54.99,Fitness
+2025-07-12,Amazon,-74.25,Shopping
+2025-07-15,Parking Garage,-38.00,Parking
+2025-07-17,Blue Jays Tickets,-88.00,Entertainment
+2025-07-20,McDonalds,-11.95,Fast Food
+2025-07-22,Hydro One,-80.60,Utilities
+2025-07-24,Nintendo Store,-89.99,Gaming
+2025-07-27,School Supplies,-58.30,Education
+2025-07-29,Clinic Visit,-75.00,Healthcare
+2025-08-01,No Frills,-78.50,Groceries
+2025-08-03,Starbucks,-7.10,Coffee
+2025-08-05,Petro Canada,-69.80,Gas
+2025-08-07,Disney Plus,-14.99,Subscriptions
+2025-08-09,Gym Membership,-54.99,Fitness
+2025-08-11,Amazon,-94.10,Shopping
+2025-08-13,Uber,-29.60,Ride Share
+2025-08-15,Arcade,-31.40,Entertainment
+2025-08-18,KFC,-17.90,Fast Food
+2025-08-20,Phone Bill,-72.99,Phone
+2025-08-22,Steam Purchase,-39.99,Gaming
+2025-08-25,Laptop Repair,-145.00,Electronics
+2025-08-27,Pharmacy,-27.30,Healthcare
+2025-09-01,FreshCo,-88.20,Groceries
+2025-09-03,Tim Hortons,-6.10,Coffee
+2025-09-05,Shell Gas,-71.40,Gas
+2025-09-07,Spotify,-11.99,Subscriptions
+2025-09-10,GoodLife Fitness,-54.99,Fitness
+2025-09-12,Amazon,-122.75,Shopping
+2025-09-15,TTC Pass,-156.00,Transport
+2025-09-18,Cineplex,-24.00,Entertainment
+2025-09-20,Burger King,-15.40,Fast Food
+2025-09-22,Internet Bill,-89.99,Utilities
+2025-09-24,PlayStation Store,-69.99,Gaming
+2025-09-27,Tuition Payment,-3200.00,Education
+2025-09-29,Dentist,-140.00,Healthcare
+2025-10-02,Metro Grocery,-93.70,Groceries
+2025-10-04,Starbucks,-8.50,Coffee
+2025-10-06,Esso Gas,-67.20,Gas
+2025-10-08,Netflix,-15.99,Subscriptions
+2025-10-10,Gym Membership,-54.99,Fitness
+2025-10-12,Amazon,-82.45,Shopping
+2025-10-14,GO Transit,-102.00,Transport
+2025-10-17,Halloween Event,-48.90,Entertainment
+2025-10-19,Subway,-14.70,Fast Food
+2025-10-21,Hydro One,-83.10,Utilities
+2025-10-23,Xbox Store,-44.99,Gaming
+2025-10-26,Lab Fees,-88.00,Education
+2025-10-28,Clinic Visit,-60.00,Healthcare
+2025-11-01,Costco,-158.60,Groceries
+2025-11-03,Tim Hortons,-6.75,Coffee
+2025-11-05,Petro Canada,-73.50,Gas
+2025-11-07,Spotify,-11.99,Subscriptions
+2025-11-10,GoodLife Fitness,-54.99,Fitness
+2025-11-12,Black Friday Amazon,-284.40,Shopping
+2025-11-15,Uber,-27.90,Ride Share
+2025-11-18,Concert Ticket,-125.00,Entertainment
+2025-11-20,McDonalds,-13.60,Fast Food
+2025-11-22,Internet Bill,-89.99,Utilities
+2025-11-24,Steam Autumn Sale,-102.99,Gaming
+2025-11-27,Course Materials,-115.80,Education
+2025-11-29,Pharmacy,-31.40,Healthcare
+2025-12-02,No Frills,-102.20,Groceries
+2025-12-04,Starbucks,-9.10,Coffee
+2025-12-06,Shell Gas,-76.80,Gas
+2025-12-08,Netflix,-15.99,Subscriptions
+2025-12-10,Gym Membership,-54.99,Fitness
+2025-12-12,Amazon Holiday,-348.60,Shopping
+2025-12-15,Airport Parking,-96.00,Parking
+2025-12-18,Holiday Party,-88.40,Entertainment
+2025-12-20,KFC,-19.30,Fast Food
+2025-12-22,Hydro One,-91.50,Utilities
+2025-12-24,Nintendo Store,-79.99,Gaming
+2025-12-27,Flight Booking,-680.00,Travel
+2025-12-29,Dental Cleaning,-125.00,Healthcare
+2026-01-03,Metro Grocery,-87.10,Groceries
+2026-01-05,Tim Hortons,-6.25,Coffee
+2026-01-07,Shell Gas,-69.40,Gas
+2026-01-09,Spotify,-11.99,Subscriptions
+2026-01-12,GoodLife Fitness,-54.99,Fitness
+2026-01-15,Amazon,-74.25,Shopping
+2026-01-18,TTC Pass,-156.00,Transport
+2026-01-20,Cineplex,-23.50,Entertainment
+2026-01-22,McDonalds,-14.20,Fast Food
+2026-01-25,Hydro One,-79.80,Utilities
+2026-01-27,Steam Purchase,-44.99,Gaming
+2026-01-29,Bookstore,-105.60,Education
