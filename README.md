@@ -5,7 +5,7 @@ A modular financial analytics platform built with Python, Streamlit, Pandas, and
 The system supports cash flow tracking, income-expense classification, budget monitoring, recurring payment detection, and financial forecasting through an interactive analytics dashboard.
 
 
-🔗 **Live demo:** [personal-finance-dashboard-uswkgh6uex9kyxpz5hgffi.streamlit.app](https://personal-finance-dashboard-uswkgh6uex9kyxpz5hgffi.streamlit.app/)
+🔗 **Live demo:** [personal-finance-dashboard-uswkgh6uex9kyxpz5hgffi.streamlit.app](https://personal-finance-dashboard-24mpihjrgbft7segaqimll.streamlit.app/)
 
 ---
 
@@ -89,7 +89,7 @@ personal-finance-dashboard/
 ### Installation
 
 ```bash
-git clone https://github.com/<your-username>/personal-finance-dashboard.git
+git git clone https://github.com/SuperTempest/personal-finance-dashboard.git
 cd personal-finance-dashboard
 pip install -r requirements.txt
 ```
@@ -134,6 +134,3 @@ If your CSV doesn't use negative values to mark income, transactions are classif
 
 ---
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
