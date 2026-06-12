@@ -89,7 +89,7 @@ personal-finance-dashboard/
 ### Installation
 
 ```bash
-git git clone https://github.com/SuperTempest/personal-finance-dashboard.git
+git clone https://github.com/SuperTempest/personal-finance-dashboard.git
 cd personal-finance-dashboard
 pip install -r requirements.txt
 ```
